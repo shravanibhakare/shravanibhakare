@@ -1,7 +1,9 @@
-## Hi there, I'm Shravani Bhakare
+<div align="center">
 
-<hr style="height:2px; border-width:0; background-color:gray">
-![Profile Views](https://komarev.com/ghpvc/?username=shravanibhakare&color=blue)
+## 👋 Hi there, I'm Shravani Bhakare  
+![Profile Views](https://komarev.com/ghpvc/?username=shravanibhakare&label=Profile%20views&color=0e75b6&style=flat)
+
+</div>
 
 
 I am a Computer Science and Engineering student with a strong interest in technology, coding, and continuous learning. I love sharing my knowledge and experience, and I actively contribute to open-source projects related to Java, C++, web development, and AI/ML. I'm also passionate about competitive programming and enjoy solving algorithmic challenges to improve my problem-solving skills and coding proficiency.
@@ -15,7 +17,7 @@ I am a Computer Science and Engineering student with a strong interest in techno
 💬 I love sharing my knowledge with the community, solving algorithmic challenges, and writing clean, efficient code. Competitive programming is a personal favorite!
 <hr style="height:2px; border-width:0; background-color:gray">
 
-🛠 Tools & Technologies
+## 🛠 Tools & Technologies
 
 <p align="center">
 
@@ -50,30 +52,39 @@ I am a Computer Science and Engineering student with a strong interest in techno
 </p>
 
 <hr style="height:2px; border-width:0; background-color:gray">
-🎓 Certifications
-Problem Solving: Hackerrank
-Fundamentals of java: Scalar
-Generative AI (workshop): Google 
+
+## 🎓 Certifications
+
+- Problem Solving: HackerRank  
+- Fundamentals of Java: Scalar  
+- Generative AI Workshop: Google
+
 <hr style="height:2px; border-width:0; background-color:gray">
 
-📫 Get in Touch
-Can reach me through: [LinkedIn]([https://www.linkedin.com/in/sharvari-salodkar-587b611a5/](https://www.linkedin.com/in/shravani-bhakare-798634285/)) and [email](mailto:shravaniii0217@gmail.com)
+## 📫 Get in Touch
+Can reach me through: [LinkedIn](https://www.linkedin.com/in/shravani-bhakare-798634285/)
+ and [email](mailto:shravaniii0217@gmail.com)
 Explore my coding profiles: [LeetCode](https://leetcode.com/u/bhakareShravani_02/) and [GeeksforGeeks](https://www.geeksforgeeks.org/user/bhakaresh4o5q/)
 Follow my [GitHub](https://github.com/shravanibhakare)
 
 <hr style="height:2px; border-width:0; background-color:gray">
 
-⚙️ GitHub Analytics
+## ⚙️ GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shravanibhakare&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
-📊 GitHub Profile Summary Card
+## 📊 GitHub Profile Summary Card
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shravanibhakare&theme=tokyonight" alt="Profile Summary Card"/>
 </p>
 <hr style="height:2px; border-width:0; background-color:gray">
 
+## contributions Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shravanibhakare&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+</p>
 
 
