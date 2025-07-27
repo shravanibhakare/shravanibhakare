@@ -50,6 +50,19 @@ I am a Computer Science and Engineering student with a strong interest in techno
 </p>
 
 <hr style="height:2px; border-width:0; background-color:gray">
+🎓 Certifications
+Problem Solving: Hackerrank
+Fundamentals of java: Scalar
+Generative AI (workshop): Google 
+<hr style="height:2px; border-width:0; background-color:gray">
+
+📫 Get in Touch
+Can reach me through: [LinkedIn]([https://www.linkedin.com/in/sharvari-salodkar-587b611a5/](https://www.linkedin.com/in/shravani-bhakare-798634285/)) and [email](mailto:shravaniii0217@gmail.com)
+Explore my coding profiles: [LeetCode](https://leetcode.com/u/bhakareShravani_02/) and [GeeksforGeeks](https://www.geeksforgeeks.org/user/bhakaresh4o5q/)
+Follow my [GitHub](https://github.com/shravanibhakare)
+
+<hr style="height:2px; border-width:0; background-color:gray">
+
 ⚙️ GitHub Analytics
 
 <p align="center">
@@ -62,14 +75,5 @@ I am a Computer Science and Engineering student with a strong interest in techno
 </p>
 <hr style="height:2px; border-width:0; background-color:gray">
 
-🎓 Certifications
-Problem Solving: Hackerrank
-Fundamentals of java: Scalar
-Generative AI (workshop): Google 
-<hr style="height:2px; border-width:0; background-color:gray">
 
-📫 Get in Touch
-Can reach me through: [LinkedIn]([https://www.linkedin.com/in/sharvari-salodkar-587b611a5/](https://www.linkedin.com/in/shravani-bhakare-798634285/)) and [email](mailto:shravaniii0217@gmail.com)
-Explore my coding profiles: [LeetCode](https://leetcode.com/u/bhakareShravani_02/) and [GeeksforGeeks](https://www.geeksforgeeks.org/user/bhakaresh4o5q/)
-Follow my [GitHub](https://github.com/shravanibhakare)
 
