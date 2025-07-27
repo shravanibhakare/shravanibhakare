@@ -71,7 +71,7 @@ Follow my [GitHub](https://github.com/shravanibhakare)
 
 📊 GitHub Profile Summary Card
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=tokyonight" alt="Profile Summary Card"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shravanibhakare&theme=tokyonight" alt="Profile Summary Card"/>
 </p>
 <hr style="height:2px; border-width:0; background-color:gray">
 
