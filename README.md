@@ -1,7 +1,7 @@
 <div align="center">
 
 ## 👋 Hi there, I'm Shravani Bhakare  
-![Profile Views](https://komarev.com/ghpvc/?username=shravanibhakare&label=Profile%20views&color=0e75b6&style=flat)
+<!--![Profile Views](https://komarev.com/ghpvc/?username=shravanibhakare&label=Profile%20views&color=0e75b6&style=flat) -->
 
 </div>
 
