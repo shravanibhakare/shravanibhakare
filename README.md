@@ -81,10 +81,4 @@ Follow my [GitHub](https://github.com/shravanibhakare)
 </p>
 <hr style="height:2px; border-width:0; background-color:gray">
 
-## contributions Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shravanibhakare&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</p>
-
 
