@@ -14,7 +14,7 @@ I am a Computer Science and Engineering student with a strong interest in techno
 
 🤝 I’m looking for help with Data science, ML/AI.
 
-💬 I love sharing my knowledge with the community, solving algorithmic challenges, and writing clean, efficient code. Competitive programming is a personal favorite!
+💬 I love sharing my knowledge with the community, solving algorithmic challenges, and writing clean, efficient code.solving probklems using data structures and learning algorithms is a personal favorite!
 <hr style="height:2px; border-width:0; background-color:gray">
 
 ## 🛠 Tools & Technologies
