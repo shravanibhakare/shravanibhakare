@@ -6,7 +6,7 @@
 </div>
 
 
-I am a Computer Science and Engineering student with a strong interest in technology, coding, and continuous learning. I love sharing my knowledge and experience, and I actively contribute to open-source projects related to Java, C++, web development, and AI/ML. I'm also passionate about competitive programming and enjoy solving algorithmic challenges to improve my problem-solving skills and coding proficiency.
+I am a Information Technology student with a strong interest in technology, coding, and continuous learning. I love sharing my knowledge and experience. I'm also passionate about Data Science and enjoy solving algorithmic challenges to improve my problem-solving skills and coding proficiency.
 
 🌱  I’m currently learning: MERN, DevOps, and Large Language Models (LLMs). I would greatly appreciate any help in my learning journey!
 
