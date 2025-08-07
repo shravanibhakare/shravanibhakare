@@ -8,7 +8,7 @@
 
 I am a Information Technology student with a strong interest in technology, coding, and continuous learning. I love sharing my knowledge and experience. I'm also passionate about Data Science and enjoy solving algorithmic challenges to improve my problem-solving skills and coding proficiency.
 
-🌱  I’m currently learning: MERN, DevOps, and Large Language Models (LLMs). I would greatly appreciate any help in my learning journey!
+🌱  I’m currently learning: ML and AI. I would greatly appreciate any help in my learning journey!
 
 👯 I’m looking to collaborate on: Software Development projects.
 
