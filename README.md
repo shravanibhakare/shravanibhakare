@@ -64,7 +64,7 @@ I am a Information Technology student with a strong interest in technology, codi
 ## 📫 Get in Touch
 Can reach me through: [LinkedIn](https://www.linkedin.com/in/shravani-bhakare-798634285/)
  and [email](mailto:shravaniii0217@gmail.com)
-Explore my coding profiles: [LeetCode](https://leetcode.com/u/bhakareShravani_02/) and [GeeksforGeeks](https://www.geeksforgeeks.org/user/bhakaresh4o5q/)
+Explore my coding profiles: [LeetCode](https://leetcode.com/u/bhakareShravani_02/) and [HackerRank](https://www.hackerrank.com/profile/bhakareshravani1)
 Follow my [GitHub](https://github.com/shravanibhakare)
 
 <hr style="height:2px; border-width:0; background-color:gray">
