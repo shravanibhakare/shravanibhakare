@@ -12,11 +12,6 @@ I am a Information Technology student with a strong interest in technology, codi
 
 👯 I’m looking to collaborate on: Software Development projects.
 
-🤝 I’m looking for help with Data science, ML/AI.
-
-💬 I love sharing my knowledge with the community, solving algorithmic challenges, and writing clean, efficient code.solving probklems using data structures and learning algorithms is a personal favorite!
-<hr style="height:2px; border-width:0; background-color:gray">
-
 ## 🛠 Tools & Technologies
 
 <p align="center">
